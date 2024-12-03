@@ -19,6 +19,12 @@ name
 department_id
 courses
 
+Courses:
+ID
+name
+teachers
+exams
+
 Exams:
 ID
 name
